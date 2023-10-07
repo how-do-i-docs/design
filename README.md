@@ -1,2 +1,3 @@
-# design
-Repository housing design details for "How Do I Docs?"
+# Design
+
+This repository houses design details for "How Do I Docs?"!
