@@ -12,4 +12,4 @@ The project logo is [OpenMoji](https://openmoji.)'s `270D` emoji (color) with th
 
 ## Colors
 
-The [gruvbox](https://github.com/morhetz/gruvbox) light color palette is used, with the colors used somewhat replicating the Fall 2023 HackRU colors (green, dark brown, light tan, white).
+The [gruvbox](https://github.com/morhetz/gruvbox) dark color palette is used, with the colors used for the main page somewhat replicating the Fall 2023 HackRU colors (green, dark brown, light tan, white).
