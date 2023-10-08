@@ -26,7 +26,6 @@ The project logo is [OpenMoji](https://openmoji.)'s `270D` emoji (color) with th
   <img src="https://github.com/how-do-i-docs/design/raw/main/assets/howdoidocs-logo-nobg.svg" width="40%" /> 
 </p>
 
-
 ## Colors
 
 The [gruvbox](https://github.com/morhetz/gruvbox) dark color palette is used, with the colors used for the main page somewhat replicating the Fall 2023 HackRU colors (green, dark brown, light tan, white).
@@ -47,6 +46,12 @@ The site uses Rasmus Andersson's [Inter](https://rsms.me/inter/) typeface for cl
 | `h1`                | 900    |
 | `h2`, `strong`, `b` | 700    |
 | Everything else     | 400    |
+
+## Social Banner
+
+<p align=center>
+  <img src="https://github.com/how-do-i-docs/design/raw/main/assets/howdoidocs-social.svg">
+</p>
 
 ## Additional Resources
  
